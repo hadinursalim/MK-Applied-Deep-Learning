@@ -1,1 +1,1 @@
-# MK-Applied-Deep-Learning
+# Applied-Deep-Learning
